@@ -1,0 +1,5 @@
+tweepy
+csv
+re
+textblob
+geopy
