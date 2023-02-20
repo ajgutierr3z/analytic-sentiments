@@ -103,10 +103,10 @@ def main(api_key, api_secret_key, access_token, access_token_secret, screen_name
 
 
 if __name__ == '__main__':
-    api_key = 'M14QtIplcDW1PLDJYaQrFmQVq'
-    api_secret_key = 'tfjwzGS1MlY5DGLTPL2nYEm1km4n4G0MoRl0HlAthUwi4P3Zkq'
-    access_token = '176952989-Bb1vWWQbprc5Ass3Pt3YpApSzuixznz5e0QkmFgz'
-    access_token_secret = 'wF6uiCDWpoT6E3KImL2a2MgyE9hQKIB2tX8cAL8hwkic4'
+    api_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+    api_secret_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+    access_token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+    access_token_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
     screen_name = 'elonmusk'
     since_date = '2000-01-01'
     until_date = '2023-03-30'
